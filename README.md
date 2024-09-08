@@ -7,8 +7,13 @@ The project consists of the following components:
 Data Extraction: Data is extracted from the Ergast API, providing comprehensive race information.
 
 Data Storage: The extracted data is saved to Google Cloud Storage (GCS) for further processing.
+
 Data Loading: The transformed data is loaded into BigQuery for storage and querying.
+
 Orchestration: Prefect manages and monitors the entire pipeline workflow, which is broken down into smaller tasks and flows.
+
 DBT Integration: DBT is utilized to derive new columns and maintain an up-to-date dataset.
+
 Data Visualization: The transformed data is visualized through a looker dashboard for easy analysis.
-Pipeline Architecture
+
+## Pipeline Architecture
