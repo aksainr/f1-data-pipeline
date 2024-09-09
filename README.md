@@ -17,4 +17,4 @@ DBT Integration: DBT is utilized to derive new columns and maintain an up-to-dat
 Data Visualization: The transformed data is visualized through a looker dashboard for easy analysis.
 
 ## Pipeline Architecture
-![F1 Data Pipeline Architecture](https://github.com/user-attachments/assets/e6428096-b2c3-48c7-bfa4-3826de0cae0c)
+![image](https://github.com/user-attachments/assets/4ef5568e-07b2-405e-8f59-9c3aeae108f2)
