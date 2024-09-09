@@ -1,4 +1,4 @@
-# f1-data-pipeline
+# F1 Data Pipeline
 This project focuses on constructing a comprehensive and seamlessly integrated data pipeline. The main objective is to retrieve the latest race information by using the Ergast F1 Data and storing the obtained data in Google Cloud Storage. After the data is collected, the data is processed by applying column filters, performing transformations, and then loaded into BigQuery. To enhance the dataset, DBT is leveraged to generate additional columns, tables and views. Finally Google Looker Studio is used to build dashboards on the top of the data for easy analysis.
 
 ## Project Components
