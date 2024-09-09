@@ -18,3 +18,5 @@ Data Visualization: The transformed data is visualized through a looker dashboar
 
 ## Pipeline Architecture
 ![image](https://github.com/user-attachments/assets/4ef5568e-07b2-405e-8f59-9c3aeae108f2)
+
+[Dashboard Link] (https://lookerstudio.google.com/reporting/9fd225dd-a9b8-45d9-87dc-7d7dbae0c841/page/nAHVD)
