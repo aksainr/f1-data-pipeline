@@ -6,6 +6,8 @@ The project consists of the following components:
 
 Data Extraction: Data is extracted from the Ergast API, providing comprehensive race information.
 
+Infrastructure: Terraform is used to seamlessly manage and setup infrastructure.
+
 Data Storage: The extracted data is saved to Google Cloud Storage (GCS) for further processing.
 
 Data Loading: The transformed data is loaded into BigQuery for storage and querying.
